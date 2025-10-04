@@ -106,7 +106,8 @@ Select the TOP SURFACE of the 3D block
 
 Output:
 <img width="1920" height="955" alt="{D401FA20-6907-4F53-8575-20D72CA56537}" src="https://github.com/user-attachments/assets/660b6b41-800e-4450-a851-2d30c3b21769" />
-<img width="1920" height="958" alt="{C54221FF-D891-44EC-AEC3-90B7DDA9BF5F}" src="https://github.com/user-attachments/assets/2861b280-a209-45e5-866f-7e6c0a17d0f9" />
+
+<img width="1920" height="960" alt="{D9A7A772-020E-466D-B8ED-06F9CCE2439E}" src="https://github.com/user-attachments/assets/9de63461-f144-440d-a7a4-b3b715e6cb86" />
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
