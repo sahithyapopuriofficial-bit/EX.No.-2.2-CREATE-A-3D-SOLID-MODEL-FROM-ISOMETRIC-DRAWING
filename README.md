@@ -1,5 +1,5 @@
 # EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date :
+## Date :04/10/2025
 
 ## AIM: 
 
@@ -36,10 +36,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Press ENTER to accept the value.
 
 ## STEP-5:  Start the sketch command
-   Select Sketch > Create Sketch.
+Select Sketch > Create Sketch.
 
 ## STEP-6: Select the Sketch Plane
-	Select the TOP SURFACE of the 3D block 
+Select the TOP SURFACE of the 3D block 
   
 ## STEP-7: Create a RECTANGLE 
 1.	Select Sketch > RECTANGLE  > CENTER RECTANGLE.
@@ -105,6 +105,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
 Output:
+<img width="1920" height="955" alt="{D401FA20-6907-4F53-8575-20D72CA56537}" src="https://github.com/user-attachments/assets/660b6b41-800e-4450-a851-2d30c3b21769" />
+<img width="1920" height="958" alt="{C54221FF-D891-44EC-AEC3-90B7DDA9BF5F}" src="https://github.com/user-attachments/assets/2861b280-a209-45e5-866f-7e6c0a17d0f9" />
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
